@@ -2,6 +2,6 @@
 ###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh kifty
 
 ### Dibuat Oleh :
-##### Kifty
+##### Renita Tri Ananda
 ### NIM
-##### G.111.21.1988
+##### G.1131.22.0022
